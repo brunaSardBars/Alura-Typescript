@@ -1,3 +1,4 @@
+//decorator de método sem parametros.
 export function escape(
     target: any,
     propertyKey: string,

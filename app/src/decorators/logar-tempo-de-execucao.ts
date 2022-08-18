@@ -1,3 +1,4 @@
+//decorator de método com parametros
 export function logarTempoDeExecucao(emSegundos: boolean = false) {
     return function(
         target: any,
